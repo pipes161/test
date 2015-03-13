@@ -1,4 +1,4 @@
 def hello_world():
-	print("Hello CGIT!");
+	print("Hello world!!");
 
 hello_world()
